@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rzayevgara" alt="rzayevgara" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/qararzayev" target="blank"><img src="https://img.shields.io/twitter/follow/qararzayev?logo=twitter&style=for-the-badge" alt="qararzayev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gararzayev" target="blank"><img src="https://img.shields.io/twitter/follow/gararzayev?logo=twitter&style=for-the-badge" alt="gararzayev" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript ES6, React JS**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/GaraRzayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GaraRzayev" height="30" width="40" /></a>
+<a href="https://twitter.com/gararzayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gararzayev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gararzayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gararzayev" height="30" width="40" /></a>
 <a href="https://fb.com/gara.rzayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gara.rzayev" height="30" width="40" /></a>
 <a href="https://instagram.com/gara.rv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gara.rv" height="30" width="40" /></a>
