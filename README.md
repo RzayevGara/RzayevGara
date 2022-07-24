@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gararzayev" target="blank"><img src="https://img.shields.io/twitter/follow/gararzayev?logo=twitter&style=for-the-badge" alt="gararzayev" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript ES6, React JS**
+- 🌱 I’m currently working as **React JS**
 
 - 📫 How to reach me **rzayevgara@gmail.com**
 
