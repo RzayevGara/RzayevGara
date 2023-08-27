@@ -39,6 +39,9 @@
   <a href="https://www.swift.org/" target="_blank" rel="noreferrer"> 
     <img src="https://user-images.githubusercontent.com/89863203/219112562-271dceb9-608d-4d79-a3a7-f862a5c66823.svg" alt="swift" width="40" height="40"/>
   </a> 
+    <a href="https://www.nestjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/89863203/263542814-9fd06461-767f-4a46-a1ac-1e27e9cfe321.svg" alt="nestjs" width="40" height="40"/>
+  </a> 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   </a> 
